@@ -41,7 +41,7 @@
   
   //The Pop up animation
   setTimeout(function() {
-    container.style.animation = "welcomePopUp  5s linear"
+    container.style.animation = "welcomePopUp  2s linear"
     container.style.transform = "translate(-50%,-50%)";
   }, 2000);
 
