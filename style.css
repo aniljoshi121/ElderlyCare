@@ -269,7 +269,7 @@ padding: var(--NWPADDING) ;
 } 
 
 .intro-imgs img{
-  transition: opacity 0.96s ease-in;
+  transition: opacity 0.76s ease-in;
   border-radius: 3px;
 }
 
